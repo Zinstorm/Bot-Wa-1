@@ -59,18 +59,18 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '‪6285600621363‬'
-global.nomorown = '‪6285743071368‬'
+global.nomorbot = '‪6281218661149‬'
+global.nomorown = '‪62895609911700'
 global.namebot = 'Iqbaal Bot'
 global.nameown = 'Iqbaal gamteng'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['‪6285743071368‬'],
-  ['‪6285743071368‬'],
+  ['‪62895609911700‬'],
+  ['‪62895609911700‬'],
   ['18126338970'],
-  ['‪6285743071368‬', 'Iqbaal gamteng', true]
+  ['‪62895609911700', 'Qubs', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
